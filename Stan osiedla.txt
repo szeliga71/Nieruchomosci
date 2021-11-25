@@ -1,0 +1,34 @@
+Warszawa  dnia  2021-11-24
+
+Lista Mieszkan
+
+Mateusz Lewak 8202199815 data urodzenia 19-02-1982 adres Lublin
+Mieszkanie id 396873410, nrBloku 0, nrMieszkania 4, metraz 75, dataWynajecia 2021-11-24, dataZakonczenia 2021-12-24
+
+ mieszkanie niewynajete  :  Mieszkanie id 1342443276, nrBloku 0, nrMieszkania 8, metraz 98, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 1867750575, nrBloku 0, nrMieszkania 6, metraz 68, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 1198108795, nrBloku 0, nrMieszkania 2, metraz 60, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 1706234378, nrBloku 0, nrMieszkania 5, metraz 55, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 1587487668, nrBloku 0, nrMieszkania 10, metraz 47, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 214126413, nrBloku 0, nrMieszkania 3, metraz 45, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 1721931908, nrBloku 0, nrMieszkania 1, metraz 35, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 2046562095, nrBloku 0, nrMieszkania 7, metraz 25, dataWynajecia null, dataZakonczenia null
+
+ mieszkanie niewynajete  :  Mieszkanie id 769287236, nrBloku 0, nrMieszkania 9, metraz 21, dataWynajecia null, dataZakonczenia null
+
+
+Lista Garazy
+
+ garaz niewynajety  : Garaz nr 6, metraz 19, dataWynajecia null, dataZakonczenia null
+ garaz niewynajety  : Garaz nr 4, metraz 17, dataWynajecia null, dataZakonczenia null
+ garaz niewynajety  : Garaz nr 2, metraz 16, dataWynajecia null, dataZakonczenia null
+ garaz niewynajety  : Garaz nr 1, metraz 15, dataWynajecia null, dataZakonczenia null
+ garaz niewynajety  : Garaz nr 3, metraz 14, dataWynajecia null, dataZakonczenia null
+ garaz niewynajety  : Garaz nr 5, metraz 13, dataWynajecia null, dataZakonczenia null
